@@ -13,8 +13,7 @@
 - Member 2: [Nimya Preeto M] - [Mar Baselios College of Engineering and Technology]
 
 ### Hosted Project Link
-[mention your project hosted link here]
-
+https://www.figma.com/make/vp7LoDkEEhoo2ObLRbVfnZ/Silent-Ambient-AI-Care-System?t=of3AyV7fJHmUwtbn-1&preview-route=%2Fdashboard
 ### Project Description
 [The Silent Ambient AI Care System is a smart home solution that uses AI to detect abnormal sounds and unhealthy behavior patterns in real time. It sends instant alerts to caregivers during emergencies and allows users to control home devices like lights and fans through voice commands.]
 
