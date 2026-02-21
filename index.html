@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CareWave</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>CareWave Assistive System</h1>
+
+    <button id="startBtn">🎤 Start Listening</button>
+
+    <div class="device">
+        <h2>Light: <span id="lightStatus">OFF</span></h2>
+    </div>
+
+    <div class="device">
+        <h2>Fan: <span id="fanStatus">OFF</span></h2>
+    </div>
+
+    <button id="calmBtn">🌧 Calm Mode</button>
+
+    <p id="alertMessage"></p>
+
+    <audio id="rainAudio" loop>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
+    </audio>
+
+    <script src="script.js"></script>
+</body>
+</html>
